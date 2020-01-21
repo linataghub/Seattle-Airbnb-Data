@@ -12,7 +12,8 @@ We will mainly focus on three aspects:
 - What are the key factors that would impact a host pricing strategy?
 - What are the market trends in term of booking and listing vacancy?
 - What are the key features that influence customer review?
-We will try to answer those questions through various descriptive or inferential statistics and visualization that can be easily communicated to potential business partners.
+
+We will try to answer those questions through various descriptive or inferential statistics and visualizations that can be easily communicated to potential business partners.
 
 ## The Data Set
 The data set contains existing listing and pricing schedule information for 3818 properties in Seattle recorded on 04 January 2016.
