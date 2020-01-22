@@ -31,4 +31,14 @@ The project follows the CRISP-DM Process which breaks the data mining process in
 - Evaluation
 - Deployment
 
+## Installment
+The notebook required the following library
+- numpy
+- pandas
+- datetime
+- matplotlib
+- seaborn
+
+## Acknowledgement
 **Project Context**: Udacity Data Science Nanodegree
+**Dataset**: Kaggle [Seattle Airbnb Open Data](https://www.kaggle.com/airbnb/seattle/data)
