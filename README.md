@@ -22,7 +22,7 @@ The data is divided in two files:
 - calendar.csv - Price and availability of the listing properties as of 04 January 2016.
 - listings.csv - Full descriptions of the listing properties and average review score
 
-## Mothodology
+## Methodology
 The project follows the CRISP-DM Process which breaks the data mining process into six major phases:
 - Business Understanding
 - Data Understanding
